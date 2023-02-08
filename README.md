@@ -8,5 +8,5 @@ This repository contains all the projects developed so far for my master degree 
 |**[Sansepolcro19](https://sansepolcro19.github.io/korganization//)**|Knowledge Management - Knowledge Organization and Cultural Heritage|Tomasi|[View repository](https://github.com/off-lod/orlando-furioso.git)
 |**[SymbO](https://giorgimariachiara.github.io/KRKE/index.html)**|   Knowledge Management - Knowledge Representation and Extraction|Gangemi - Nuzzolese|[View repository](https://github.com/giorgimariachiara/KRKE)
 |**[Relational and graph database](https://github.com/ljutach/Ed-Edd-n-Eddie/blob/main/jupyternotebook./DatascienceJupyternotebook.ipynb)**|Computational Management of Data - Data Science|Peroni|[View repository](https://github.com/ljutach/Ed-Edd-n-Eddie)
-|**[The star's law](https://docs.google.com/presentation/d/1xa2DAMntqo1wkYbs3VFkKU-WEnblPA_Ayixb7Lzytg0/edit?usp=sharing)**|Digital Heritage and Multimedia|Caraceni - Pescarin|/
+|**[The star's law]([https://docs.google.com/presentation/d/1xa2DAMntqo1wkYbs3VFkKU-WEnblPA_Ayixb7Lzytg0/edit?usp=sharing](https://drive.google.com/drive/folders/1ufM9fkf7_rt76lQaIgx8BlkvkZrulfc6))**|Digital Heritage and Multimedia|Caraceni - Pescarin|/
 |**[La Storia è...](https://github.com/elizastuglik/Lastoria-)**|Laboratorio di Comunicazione visiva|Ielacqua- Giorgetta|/
