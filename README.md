@@ -1,9 +1,9 @@
 # My Portfolio
 This repository contains all the projects developed so far for my master degree in"[Digital Humanities and Digital Knowledge](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge)" at the Alma Mater University of Bologna. 
 
-# # Projects:
+# Projects:
 |**Project**|**Course**|**Professor(s)**|**Notes**
-|---|---|---|---|---|
+|---|---|---|---|
 |**[](https://semafe.github.io/FAVoloso/)**|Digital Heritage and Multimedia|Caraceni - Pescarin|[View repository](https://github.com/semafe/FAVoloso.git) 
 |**[Sicilia '80 ](https://giorgimariachiara.github.io/DTTH/index.html)**|Digital Text in the Humanities: Theories, Methodologies, Applications|Mancinelli|[View repository](https://github.com/giorgimariachiara/DTTH) 
 |**[Sansepolcro19](https://sansepolcro19.github.io/korganization//)**|Knowledge Management - Knowledge Organization and Cultural Heritage|Tomasi|[View repository](https://github.com/off-lod/orlando-furioso.git)
