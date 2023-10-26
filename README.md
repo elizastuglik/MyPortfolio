@@ -4,8 +4,8 @@ This repository contains all the projects developed so far for my master degree 
 # Projects:
 |**Project**|**Course**|**Professor(s)**|**Notes**
 |---|---|---|---|
-|**[The Chamber of Deputies](https://giorgimariachiara.github.io/COD/index.html)**|Information Visualization|M. Daquino|[View repository](https://github.com/giorgimariachiara/COD)/
-|**[The Lives](https://giorgimariachiara.github.io/TheLivesOf/index.html)**|Information Modeling And Web Technologies|F. Vitali|[View repository](https://github.com/giorgimariachiara/TheLivesOf)/
+|**[The Chamber of Deputies](https://giorgimariachiara.github.io/COD/index.html)**|Information Visualization|M. Daquino|[View repository](https://github.com/giorgimariachiara/COD)
+|**[The Lives](https://giorgimariachiara.github.io/TheLivesOf/index.html)**|Information Modeling And Web Technologies|F. Vitali|[View repository](https://github.com/giorgimariachiara/TheLivesOf)
 |**[Sicilia '80 ](https://giorgimariachiara.github.io/DTTH/index.html)**|Digital Text in the Humanities: Theories, Methodologies, Applications|Mancinelli|[View repository](https://github.com/giorgimariachiara/DTTH) 
 |**[Sansepolcro19](https://sansepolcro19.github.io/korganization//)**|Knowledge Management - Knowledge Organization and Cultural Heritage|Tomasi|[View repository](https://github.com/sansepolcro19/korganization)
 |**[SymbO](https://giorgimariachiara.github.io/KRKE/index.html)**|   Knowledge Management - Knowledge Representation and Extraction|Gangemi - Nuzzolese|[View repository](https://github.com/giorgimariachiara/KRKE) 
